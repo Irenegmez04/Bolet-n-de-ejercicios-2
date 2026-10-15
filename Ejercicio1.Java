@@ -5,17 +5,17 @@ public class Ejercicio1 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in); 
-        System.out.println("Introduce el numero de años");
+        System.out.println("Introduce el numero de años: ");
 
         int años = input.nextInt ();
 
         int horas = 24 * 365 * años;
 
-        System.out.println("Hay " + horas + "horas en " + años + " años");
+        System.out.println("Hay " + horas + " horas en " + años + " años");
 
         input.close();
     }
 
-}1
+}
 
 
