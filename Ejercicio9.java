@@ -1,8 +1,8 @@
 
 public class Ejercicio9 {
-    
+
     public static void main(String[] args) {
-        
+
         String palabra1 = "Coche";
         String palabra2 = "Gato";
         String palabra3 = "Luna";
@@ -24,6 +24,16 @@ public class Ejercicio9 {
         String palabra19 = "Book";
         String palabra20 = "Butterfly";
 
-        
+        System.out.println(palabra11 + "       " + palabra1);
+        System.out.println(palabra12 + "       " + palabra2);
+        System.out.println(palabra13 + "       " + palabra3);
+        System.out.println(palabra14 + "     " + palabra4);
+        System.out.println(palabra15 + "       " + palabra5);
+        System.out.println(palabra16 + "   " + palabra6);
+        System.out.println(palabra17 + "    " + palabra7);
+        System.out.println(palabra18 + "     " + palabra8);
+        System.out.println(palabra19 + "     " + palabra9);
+        System.out.println(palabra20 + " " + palabra10);
+
     }
 }

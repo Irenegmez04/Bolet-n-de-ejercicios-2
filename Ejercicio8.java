@@ -16,7 +16,7 @@ public class Ejercicio8 {
         System.out.println("Introduce la nota de la segunda evaluación: ");
         double segundaevaluacion = input.nextDouble();
 
-        System.out.println("Introduce la nota de la tercera evaluación ");
+        System.out.println("Introduce la nota de la tercera evaluación: ");
         double terceraevaluacion = input.nextDouble();
 
         double notamedia = (primeraevaluacion + segundaevaluacion + terceraevaluacion) / 3;

@@ -9,7 +9,7 @@ public class Ejercicio7 {
         System.out.println("Introduce tu peso en Kg: ");
         double peso = input.nextDouble();
 
-        System.out.println("Introduce tu altura en cm ");
+        System.out.println("Introduce tu altura en cm: ");
         double altura = input.nextDouble();
 
         double BMI = peso / (altura * altura);
